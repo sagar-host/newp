@@ -11,11 +11,12 @@ padding: 2vmax;
   }
 
   .toold{
+      width: 520px;
 padding: 3vmax;
   }
 @media only screen and (max-width: 600px) {
-    .main{
-        width: 375px;
+    .mainc{
+        width: 500px;
 
     }
   }
